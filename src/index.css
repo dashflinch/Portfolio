@@ -1,0 +1,60 @@
+@font-face {
+  font-family: Playfair;
+  src: url("../src/assets/fonts/PlayfairDisplay-SemiBold.ttf");
+}
+@font-face {
+  font-family: PlusJakarta;
+  src: url("../src/assets/fonts/PlusJakartaSans-Medium.ttf");
+}
+@font-face {
+  font-family: Raleway;
+  src: url("../src/assets/fonts/Raleway-SemiBold.ttf");
+}
+@font-face {
+  font-family: SyneMono;
+  src: url("../src/assets/fonts/SyneMono-Regular.ttf");
+}
+@font-face {
+  font-family: SuperMer;
+  src: url("../src/assets/fonts/SupermercadoOne-Regular.ttf");
+}
+@font-face {
+  font-family: Urbanist;
+  src: url("../src/assets/fonts/Urbanist-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: Balsam;
+  src: url("../src/assets/fonts/BalsamiqSans-Regular.ttf");
+}
+
+@import "tailwindcss";
+
+@theme{
+  --font-PlusJakarta: PlusJakarta, sans-serif;
+}
+@theme{
+  --font-Playfair: Playfair, sans-serif;
+}
+@theme{
+  --font-Raleway: Raleway, sans-serif;
+}
+@theme{
+  --font-SyneMono: SyneMono, sans-serif;
+}
+@theme{
+  --font-SuperMer: SuperMer, sans-serif;
+}
+@theme{
+  --font-Balsam: Balsam, sans-serif;
+}
+@theme{
+  --font-Urbanist: Urbanist, sans-serif;
+}
+
+body{
+  margin: 0px;
+  box-sizing: border-box;
+  background: linear-gradient(to bottom ,#90e0ef, #48cae4, #00b4d8, #0096c7, #0077b6, #023e8a, #03045e);
+  padding: 40px;
+}
+
