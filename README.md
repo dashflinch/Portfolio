@@ -11,6 +11,8 @@ This is a modern, responsive personal portfolio website built using **React**, *
 - 🎨 **Tailwind CSS** – Utility-first CSS framework for styling
 - 💻 **JavaScript (ES6+)**
 
+- 🌐 Live Demo: View Live Project - https://portfolio-phi-lilac-97.vercel.app/
+
 ---
 
 ## 📁 Project Structure
